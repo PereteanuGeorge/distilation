@@ -1,0 +1,107 @@
+with # samples 500 we got best acc of 10.0, batch of 128, lr = 0.05     5 layere remaining cu 50 epochs
+with # samples 2500 we got best acc of 50.4, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 57.25, batch of 128, lr = 0.05
+inainte am avut cu 50 epochs si acum fac cu 100
+with # samples 500 we got best acc of 12.37, batch of 128, lr = 0.05    5 layere remaining
+with # samples 2500 we got best acc of 56.83, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 61.67, batch of 128, lr = 0.05
+100 epochs si 4 layere remainig
+with # samples 500 we got best acc of 26.06, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 55.9, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 60.4, batch of 128, lr = 0.05
+3 layers remaining 100 epochs
+with # samples 500 we got best acc of 42.08, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 52.19, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 53.9, batch of 128, lr = 0.05
+3 layers again and run only 5k
+with # samples 5000 we got best acc of 53.17, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 52.44, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 39.31, batch of 128, lr = 0.05
+3 layers and modify attack model
+with # samples 5000 we got best acc of 54.86, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 52.59, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 42.9, batch of 128, lr = 0.05
+5 remaining layers and modified attack model
+with # samples 5000 we got best acc of 63.77, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 60.37, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 47.57, batch of 128, lr = 0.05
+
+with # samples 5000 we got best acc of 44.06, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 43.18, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 39.92, batch of 128, lr = 0.05
+1 remaining layer cand attacker are access la model
+with # samples 5000 we got best acc of 42.69, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 42.57, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 40.37, batch of 128, lr = 0.05
+
+1 remaining layer but attacker has access to first layers as well
+with # samples 5000 we got best acc of 86.67, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 86.5, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 86.36, batch of 128, lr = 0.05
+with # samples 5000 we got best acc of 86.67, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 86.5, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 86.36, batch of 128, lr = 0.05
+2 remaining layers but attacker has access to first layers as well
+with # samples 5000 we got best acc of 86.74, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 86.62, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 86.11, batch of 128, lr = 0.05
+
+3 layers remaining but the attacker doesnt have access to the first layer
+with # samples 5000 we got best acc of 86.47, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 86.61, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 86.23, batch of 128, lr = 0.05
+
+4 layers remaining with access to the first layer
+with # samples 5000 we got best acc of 86.33, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 85.6, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 83.99, batch of 128, lr = 0.05
+
+4 layers remaining but the attacker DOESNT HAVE ACEESS TO FIRST LAYER
+with # samples 5000 we got best acc of 61.81, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 59.57, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 52.72, batch of 128, lr = 0.05
+
+3 layers and attaker doesnt have access to first layer
+with # samples 5000 we got best acc of 56.01, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 54.39, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 46.5, batch of 128, lr = 0.05
+
+with # samples 5000 we got best acc of 49.1, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 47.39, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 42.21, batch of 128, lr = 0.05
+
+2 layers remaining
+with # samples 5000 we got best acc of 49.1, batch of 128, lr = 0.05
+with # samples 2500 we got best acc of 47.39, batch of 128, lr = 0.05
+with # samples 500 we got best acc of 42.21, batch of 128, lr = 0.05
+
+
+
+
+
+
+
+
+
+
+
+
+4 layers remaining cu attack-ul nou
+with # samples 5000 we got best acc of 63.4, batch of 128, lr = 0.07
+with # samples 2500 we got best acc of 60.38, batch of 128, lr = 0.07
+with # samples 500 we got best acc of 53.08, batch of 128, lr = 0.07
+
+3 layers remaining
+with # samples 5000 we got best acc of 61.56, batch of 128, lr = 0.07
+with # samples 2500 we got best acc of 58.17, batch of 128, lr = 0.07
+with # samples 500 we got best acc of 50.63, batch of 128, lr = 0.07
+
+2 layers
+with # samples 5000 we got best acc of 55.02, batch of 128, lr = 0.07
+with # samples 2500 we got best acc of 52.76, batch of 128, lr = 0.07
+with # samples 500 we got best acc of 45.24, batch of 128, lr = 0.07
+
+1 layer
+with # samples 5000 we got best acc of 44.19, batch of 128, lr = 0.07
+with # samples 2500 we got best acc of 43.12, batch of 128, lr = 0.07
+with # samples 500 we got best acc of 40.14, batch of 128, lr = 0.07
